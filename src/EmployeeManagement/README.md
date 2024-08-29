@@ -49,7 +49,6 @@ The `EmployeeTest` class includes the `main` method to demonstrate the functiona
 - Raises the salary of both the employee and the manager by 10%.
 - Displays the updated information of both.
 
-![Diagram showing output of the program](./image/Screenshot 2024-08-29 092908.png)
 
 
 ## How to Run
