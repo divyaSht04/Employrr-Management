@@ -1,4 +1,4 @@
-package Task1;
+package EmployeeManagement;
 
 public class Employee {
     private String name;
