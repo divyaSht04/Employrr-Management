@@ -21,5 +21,4 @@ public class Manager extends Employee {
         double totalSalary = getSalary() + bonus;
         return totalSalary;
     }
-
 }
